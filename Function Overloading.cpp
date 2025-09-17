@@ -1,6 +1,3 @@
-// Aditya Jadhav
-// 24070123005
-
 #include <iostream>
 using namespace std;
 
@@ -26,16 +23,17 @@ public:
 int main() {
     UserInfo u;
 
-    u.show("Aditya");
-    u.show("Aditya", 19);
-    u.show("Aditya", "Pune");
-    u.show("Aditya", 19, "Pune");
+    u.show("Anavi");
+    u.show("anavi", 19);
+    u.show("Anavi", "Pune");
+    u.show("Anavi" 19, "Pune");
 
     return 0;
 }
 
 // OUTPUT
-// Name: Aditya
-// Name: Aditya, Age: 19
-// Name: Aditya, City: Pune
-// Name: Aditya, Age: 19, City: Pune
+// Name: Anavi
+// Name: Anavi, Age: 19
+// Name: Anavi, City: Pune
+
+// Name: Anavi, Age: 19, City: Pune
