@@ -1,6 +1,3 @@
-// Aditya Jadhav
-// 24070123005
-
 #include<iostream>
 using namespace std;
 
@@ -31,4 +28,5 @@ int main() {
 }
 
 // OUTPUT
+
 // 12+i9
