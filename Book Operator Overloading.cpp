@@ -1,6 +1,3 @@
-// Aditya Jadhav
-// 24070123005
-
 #include <iostream>
 using namespace std;
 
@@ -36,4 +33,5 @@ int main() {
 // OUTPUT
 // Title: C++ Basics, Pages: 120
 // Title: Advanced C++, Pages: 200
+
 // Title: C++ Basics & Advanced C++, Pages: 320
