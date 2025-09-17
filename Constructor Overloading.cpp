@@ -1,6 +1,3 @@
-// Aditya Jadhav
-// 24070123005
-
 #include <iostream>
 using namespace std;
 
@@ -44,4 +41,5 @@ int main() {
 // OUTPUT
 // Shape: Undefined, Area: 0
 // Shape: Rectangle, Area: 50
+
 // Shape: Square, Area: 49
