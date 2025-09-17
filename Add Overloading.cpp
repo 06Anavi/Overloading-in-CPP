@@ -1,6 +1,3 @@
-// Aditya Jadhav
-// 24070123005
-
 #include <iostream>
 using namespace std;
 
@@ -43,4 +40,5 @@ int main() {
 // Sum: 0
 // Sum: 30
 // Sum: 45
+
 // Sum: 19
